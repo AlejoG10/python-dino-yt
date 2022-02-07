@@ -4,7 +4,7 @@
 ![snapshot1](snapshots/snapshot1.png)
 
 ## Snapshot 2 - Playing
-![snapshot2](snapshots/snapshot2.png)
+![snapshot2](snapshots/snapshot3.png)
 
 ## Snapshot 3 - Game Over
 ![snapshot3](snapshots/snapshot3.png)
